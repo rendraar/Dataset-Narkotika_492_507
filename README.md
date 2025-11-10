@@ -25,16 +25,24 @@ All materials are **public domain** and **not subject to copyright (HaKI)** as t
 ## 🧠 Repository Structure
 
 Dataset-Narkotika_492_507/
+
 │
-├── dataset/ # Contains 50 court decision PDF files
+
+├── Dataset/ # Contains 50 court decision PDF files
+
 │ ├── 258_Pid.Sus_2025_PN_Bks.pdf
+
 │ ├── 259_Pid.Sus_2025_PN_Bks.pdf
+
 │ └── ...
+
 │
-├── overview/ # Contains summary/metadata files
+├── Overview/ # Contains summary/metadata files
+
 │ ├── Overview.xlsx
-│ └── overview_script.py (optional)
+
 │
+
 └── README.md # Project documentation (this file)
 
 ---
