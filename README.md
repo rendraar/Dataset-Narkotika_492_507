@@ -28,15 +28,12 @@ Dataset-Narkotika_492_507/
 
 │
 
-├── Dataset/ # Contains 50 court decision PDF files
+├── Dataset/
 
-│ ├── 258_Pid.Sus_2025_PN_Bks.pdf
-
-│ ├── 259_Pid.Sus_2025_PN_Bks.pdf
-
-│ └── ...
+│ ├── Narkotika.zip # Contains all 50 court decision PDF files (compressed)
 
 │
+
 ├── Overview/ # Contains summary/metadata files
 
 │ ├── Overview.xlsx
